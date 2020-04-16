@@ -1,0 +1,11 @@
+* {
+    text-align: center;
+    color: orangered;
+}
+
+h3 {
+    border: 4px;
+    text-align: center;
+    border-color: rebeccapurple;
+    border-style: groove;
+}
